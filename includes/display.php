@@ -1,0 +1,9 @@
+<?php
+
+/**
+ * Manage displayed content
+ */
+
+ 
+ 
+?>
